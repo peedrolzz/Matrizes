@@ -1,4 +1,4 @@
-/* Reset CSS */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -7,12 +7,11 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #fcfcfc; /* Green background color */
+  background-color: #fcfcfc; 
 }
 
-/* Estilos da barra de navegação */
 .navbar {
-  background-color: #060000; /* Red navbar background color */
+  background-color: #060000; 
   color: #fff;
   padding: 15px;
   display: flex;
@@ -54,7 +53,6 @@ body {
   color: #fe0000;
 }
 
-/* Estilos para o conteúdo principal */
 main {
   padding: 20px;
   text-align: center;
@@ -63,12 +61,12 @@ main {
 main h1 {
   font-size: 32px;
   margin-bottom: 10px;
-  color: #000000; /* White title color */
+  color: #000000; 
 }
 
 main p {
   font-size: 18px;
-  color: #000; /* Black paragraph color */
+  color: #000;
 }
 
 .container {
